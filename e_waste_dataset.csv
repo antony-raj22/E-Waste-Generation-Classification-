@@ -1,0 +1,9 @@
+DeviceType,MaterialType,Source,Class
+Phone,Plastic,Household,Small
+TV,Metal,Household,Large
+Laptop,Metal,Office,Small
+Fridge,Plastic,Household,Large
+Printer,Mixed,Office,Medium
+Phone,Metal,Household,Small
+AC,Mixed,Industrial,Large
+Monitor,Glass,Office,Medium
